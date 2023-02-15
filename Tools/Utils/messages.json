@@ -1,0 +1,9 @@
+{
+    "safeword" : "**SERVER SAFEWORD HAS BEEN CALLED**\n\n**Stop all play** , interaction on this topic and please move to aftercare. Ping Staff if help is needed or please open a ticket if further assistance is needed.",
+    "actionsir" : "Im Sorry Sir... But this command is only allowed to be used within <#880151284911575081> !",
+    "actioncunt" : "Sorry but this command can only be used in <#880151284911575081> !",
+    "membersir" : "Im Sorry Sir... But I cannot find that member. Would you please try again?",
+    "membercunt" : "Unable to find Specified Member",
+    "actionself" : "Sorry But Actions Upon Yourself Aren't Allowed",
+    "actionbot" : "Sorry You Cant Use Actions On Bots!!"
+}
